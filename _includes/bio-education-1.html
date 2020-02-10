@@ -14,11 +14,11 @@
       <p class="ui no-bottom"><b>{{ entry.institution }}</b></p>
       <p class="ui no-bottom">{{ entry.studyType }}, {{ entry.area }}</p>
       {% if entry.courses %}
-      <ul style="margin: 0px;">
+      <p style="margin: 0px; list-style-type: none">
         {% for course in entry.courses %}
-        <li>{{ course }}</li>
+        {{ course }}
         {% endfor %}
-      </ul>
+      </p>
       {% endif %}
     </div>
     <div class="four wide right aligned column no-bottom">
