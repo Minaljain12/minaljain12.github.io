@@ -1,270 +1,250 @@
 {
-    "basics": {
-      "name": "Heidi A.K. Hansen",
-      "label": "Technical Project Manager and Software Engineer (Android and iOS)",
-      "picture": "",
-      "email": "heidiakhansen@gmail.com",
-      "phone": "+31(0)6 3404-3194",
-      "website": "https://hansen.io",
-      "summary": "5 years' experience in Software Engineering with a focus on developing Android and iOS apps with Kotlin, Java, Objective-C, and Swift.  ",
-      "location": {
-        "address": "",
-        "postalCode": "",
-        "city": "Amsterdam",
-        "countryCode": "NL",
-        "region": ""
-      },
-      "profiles": [
-        {
-          "network": "Twitter",
-          "username": "JungleDev",
-          "url": "https://twitter.com/jungledev"
-        },
-        {
-          "network": "GitHub",
-          "username": "JungleDev",
-          "url": "https://github.com/heidihansen"
-        },
-        {
-          "network": "LinkedIn",
-          "username": "HeidiAKHansen",
-          "url": "https://linkedin.com/in/heidiakhansen"
-        }
-      ]
+  "basics": {
+    "name": "Heidi A.K. Hansen",
+    "label": "Technical Project Manager and Software Engineer (Android and iOS)",
+    "picture": "../images/ProfilePic.png",
+    "email": "hello@jungledev.io",
+    "phone": "",
+    "website": "https://jungledev.io",
+    "summary": "5 years' experience in Software Engineering with a focus on developing Android and iOS apps with Kotlin, Java, Objective-C, and Swift.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Amsterdam",
+      "countryCode": "NL",
+      "region": ""
     },
-    "work": [
+    "profiles": [
       {
-        "company": "Body Literacy Collective",
-        "position": "TECHNICAL PROJECT MANAGER",
-        "website": "https://www.bodyliteracy.co/",
-        "startDate": "2019-07-01",
-        "summary": "Read Your Body: The only privacy-first mobile app for fertility charting."
+        "network": "Twitter",
+        "username": "JungleDev",
+        "url": "https://twitter.com/jungledev"
       },
       {
-        "company": "Biep Boep Software",
-        "position": "SOFTWARE ENGINEER (ANDROID AND IOS) AND PROJECT MANAGER",
-        "startDate": "2014-09-01",
-        "summary": "(Kotlin, Objective-C, Swift) Mobile app development consultancy, native platforms."
+        "network": "GitHub",
+        "username": "JungleDev",
+        "url": "https://github.com/heidihansen"
       },
       {
-        "company": "SimpliSafe Home Security",
-        "position": "SOFTWARE ENGINEER - IOS",
-        "website": "https://simplisafe.com/",
-        "startDate": "2016-03-01",
-        "endDate": "2017-01-01",
-        "summary": "(Objective-C and C) Simplisafe’s home security system is a comprehensive whole-house hardware solution controlled from a mobile app.  I was part of a team of three mobile developers."
+        "network": "LinkedIn",
+        "username": "HeidiAKHansen",
+        "url": "https://linkedin.com/in/jungledev"
       },
       {
-        "company": "Trill, Inc.",
-        "position": "SOFTWARE ENGINEER - IOS",
-        "website": "https://www.trill.me/",
-        "startDate": "2015-07-01",
-        "endDate": "2016-03-01",
-        "summary": "(Objective-C) Trill was an iOS app designed to improve discoverability of cultural experiences like theater, art shows, and more.  I worked closely with another developer to create the beautifully designed app from scratch in Objective-C."
-      },
-      {
-        "company": "Sitecues by AiSquared",
-        "position": "SOFTWARE ENGINEER - WEB, TECHNICAL WRITER, TEST ENGINEER",
-        "website": "http://www.aisquared.com/",
-        "startDate": "2015-03-01",
-        "endDate": "2015-08-01",
-        "summary": "Sitecues is an innovative Web-based accessibility solution that builds zoom and speech features into websites to enhance the usability for website visitors who experience visual and print difficulties."
-      },
-      {
-        "company": "Wailau Organic Farm and Educational Center",
-        "position": "OPERATIONS MANAGER, FOUNDER, AND ARCHITECT",
-        "website": "",
-        "startDate": "2009-12-01",
-        "endDate": "2014-02-01",
-        "summary": "Procured and developed a 1.71-acre plot of raw land in a roadless valley into an off grid home and teaching center."
-      }
-    ],
-    "volunteer": [
-      {
-        "organization": "Community bicycle shops (many)",
-        "position": "Bicycle Mechanic and Teacher",
-        "website": "",
-        "startDate": "2005-03-01",
-        "summary": ""
-      },
-      {
-        "organization": "Girl Develop It!",
-        "position": "Teacher's Assistant",
-        "website": "https://www.girldevelopit.com/",
-        "startDate": "2015-04-01",
-        "endDate": "2016-11-01",
-        "summary": ""
-      },
-      {
-        "organization": "Artisan's Asylum, Inc.",
-        "position": "Makerspace Community Volunteer",
-        "website": "https://artisansasylum.com/",
-        "startDate": "2015-01-01",
-        "endDate": "2016-11-01",
-        "summary": ""
-      },
-      {
-        "organization": "Boy Scouts of America",
-        "position": "Survival skills and primitive technology instructor",
-        "website": "https://www.scouting.org/",
-        "startDate": "2010-05-01",
-        "endDate": "2013-11-01",
-        "summary": ""
-      }
-    ],
-    "education": [
-      {
-        "institution": "MIT's FabAcademy",
-        "area": "Digital Fabrication - How to Make Almost Anything",
-        "startDate": "2019-01-01",
-        "courses": [
-          "Product design",
-          "Rapid Prototyping",
-          "Modelling with 2D and 3D software",
-          "Laser cutting",
-          "Circuit board design",
-          "Networking protocols",
-          "Sensors and output devices",
-          "3D printing and scanning",
-          "CNC machining",
-          "Mould design",
-          "Construction and casting",
-          "Mechanical and machine design"
-        ]
-      },
-      {
-        "institution": "Udacity",
-        "studyType": "Nanodegree",
-        "area": "Android Development",
-        "startDate": "2017-03-01",
-        "endDate": "2017-09-01"
-      },
-      {
-        "institution": "Flatiron School",
-        "studyType": "Certificate",
-        "area": "iOS App Development",
-        "startDate": "2014-06-01",
-        "endDate": "2014-09-01"
-      },
-      {
-        "institution": "The Evergreen State College",
-        "studyType": "Degree",
-        "area": "Sustainable Design - Agriculture and Architecture",
-        "startDate": "2003-09-01",
-        "endDate": "207-05-01"
-      }
-    ],
-    "publications": [
-      {
-        "name": "Protect.Earth",
-        "publisher": "(Open Source)",
-        "releaseDate": "2019-09-01",
-        "website": "https://protect.earth",
-        "summary": ""
-      },
-      {
-        "name": "Hardware wearable fertility montior",
-        "publisher": "Lola",
-        "releaseDate": "",
-        "website": "",
-        "summary": ""
-      },
-      {
-        "name": "Milk and Honey",
-        "publisher": "The CleanWeb Hackathon",
-        "releaseDate": "2016-02-01",
-        "website": "",
-        "summary": ""
-      },
-      {
-        "name": "Boston Code Dojo",
-        "publisher": "Meetup",
-        "releaseDate": "2015-02-01",
-        "website": "",
-        "summary": ""
-      },
-      {
-        "name": "Operations Manager, Founder, and Architect",
-        "publisher": "Wailau Organic Farm and Educational Center",
-        "releaseDate": "2009-11-01",
-        "website": "",
-        "summary": ""
-      }
-    ],
-    "skills": [
-      {
-        "name": "Software Development",
-        "keywords": [
-          "iOS",
-          "Android",
-          "Kotlin",
-          "Objective-C",
-          "Swift",
-          "Java",
-          "C",
-          "HTML",
-          "CSS",
-          "JS"
-        ]
-      },
-      {
-        "name": "Software Tools",
-        "keywords": [
-          "Xcode",
-          "Android Studio",
-          "Fastlane",
-          "CLI tools",
-          "VS Code",
-          "Flutter",
-          "Cocoapods",
-          "Github",
-          "Bitbucket",
-          "Jira",
-          "Atlassian",
-          "Notion",
-          "Gatsby",
-          "Sketch"
-        ]
-      },
-      {
-        "name": "Project and Operations Management",
-        "keywords": [
-          "Sprint Planning",
-          "Agile/Scrum"
-        ]
-      },
-      {
-        "name": "App Store release management and automation"
-      },
-      {
-        "name": "Technical writing"
-      }
-    ],
-    "languages": [
-      {
-        "language": "English",
-        "fluency": "Native speaker"
-      },
-      {
-        "language": "Spanish",
-        "fluency": "Conversationally fluent"
-      }
-    ],
-    "interests": [
-      {
-        "name": "Accessibility, Security, Privacy, Maker Culture, Electronics, IoT, and Wearables"
-      },
-      {
-        "name": "Climate change, Sustainable Design, Renewable Energy, and Zero Waste, Food Systems"
-      },
-      {
-        "name": "Cycling, Bicycle Repair, Outdoor Access, Survival Skills"
-      }
-    ],
-    "references": [
-      {
-        "name": "Laura Robson",
-        "reference": "_'Heidi is a rare find in the burgeoning world of tech. Combining strong technical expertise with **outstanding interpersonal skills**...she approaches her projects with **infectious curiosity and enthusiasm, unafraid of taking measured risks and trying new things** all the while maintaining a **close eye on detail and delivery**...It’s no exaggeration to say that this project would not have succeeded without Heidi’s guidance and oversight. She counselled and supported me to make wise, courageous, strategic, technical decisions...keeping us **focused on key deliverables...offering input without ever imposing...Easy rapport** is what makes working with Heidi extra special...(she has been a) huge source of support and strength while striving to deliver such an ambitious project...**championing accessibility and privacy throughout**. She brings...humility, humour, empathy, quiet confidence and tenacity to her work.  In choosing to work with Heidi we found not only an exceptional technical project manager, but also a generous mentor and valued colleague. I would recommend her without hesitation.'_"
+        "network": "Stack Overflow",
+        "username": "jungledev",
+        "url": "https://stackoverflow.com/users/3634990/jungledev"
       }
     ]
-  }
+  },
+  "work": [
+    {
+      "company": "Body Literacy Collective",
+      "position": "TECHNICAL PROJECT MANAGER",
+      "website": "https://www.bodyliteracy.co/",
+      "startDate": "2019-07-01",
+      "endDate": "Now",
+      "summary": "Read Your Body: The only privacy-first mobile app for fertility charting."
+    },
+    {
+      "company": "Biep Boep Software",
+      "position": "SOFTWARE ENGINEER (ANDROID AND IOS) AND PROJECT MANAGER",
+      "startDate": "2014-09-01",
+      "endDate": "Now",
+      "summary": "(Kotlin, Objective-C, Swift) Mobile app development consultancy, native platforms."
+    },
+    {
+      "company": "SimpliSafe Home Security",
+      "position": "SOFTWARE ENGINEER - IOS",
+      "website": "https://simplisafe.com/",
+      "startDate": "2016-03-01",
+      "endDate": "2017-01-01",
+      "summary": "(Objective-C and C) Simplisafe’s home security system is a comprehensive whole-house hardware solution controlled from a mobile app.  I was part of a team of three mobile developers."
+    },
+    {
+      "company": "Trill, Inc.",
+      "position": "SOFTWARE ENGINEER - IOS",
+      "website": "https://www.trill.me/",
+      "startDate": "2015-07-01",
+      "endDate": "2016-03-01",
+      "summary": "(Objective-C) Trill was an iOS app designed to improve discoverability of cultural experiences like theater, art shows, and more.  I worked closely with another developer to create the beautifully designed app from scratch in Objective-C."
+    },
+    {
+      "company": "Sitecues by AiSquared",
+      "position": "SOFTWARE ENGINEER - WEB, TECHNICAL WRITER, TEST ENGINEER",
+      "website": "http://www.aisquared.com/",
+      "startDate": "2015-03-01",
+      "summary": "Sitecues is an innovative Web-based accessibility solution that builds zoom and speech features into websites to enhance the usability for website visitors who experience visual and print difficulties."
+    },
+    {
+      "company": "Wailau Organic Farm and Educational Center",
+      "position": "OPERATIONS MANAGER, FOUNDER, AND ARCHITECT",
+      "website": "",
+      "startDate": "2009-12-01",
+      "endDate": "2014-02-01",
+      "summary": "Procured and developed a 1.71-acre plot of raw land in a roadless valley into an off grid home and teaching center."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Community bicycle shops (many)",
+      "position": "Bicycle Mechanic and Teacher",
+      "website": "",
+      "startDate": "2005-03-01",
+      "endDate": "Now",
+      "summary": ""
+    },
+    {
+      "organization": "Girl Develop It!",
+      "position": "Teacher's Assistant",
+      "website": "https://www.girldevelopit.com/",
+      "startDate": "2015-04-01",
+      "endDate": "2016-11-01",
+      "summary": ""
+    },
+    {
+      "organization": "Artisan's Asylum, Inc.",
+      "position": "Makerspace Community Volunteer",
+      "website": "https://artisansasylum.com/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-11-01",
+      "summary": ""
+    },
+    {
+      "organization": "Boy Scouts of America",
+      "position": "Survival skills and primitive technology instructor",
+      "website": "https://www.scouting.org/",
+      "startDate": "2010-05-01",
+      "endDate": "2013-11-01",
+      "summary": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "MIT's FabAcademy",
+      "studyType": "Certificate",
+      "area": "Digital Fabrication - 'How to Make Almost Anything'",
+      "startDate": "2019-01-01",
+      "courses": [
+        "Product design, Rapid Prototyping, Modelling with 2D and 3D software, Laser cutting, Circuit board design, Networking protocols, Sensors and output devices, 3D printing and scanning, CNC machining, Mould design, Construction and casting, Mechanical and machine design"
+      ]
+    },
+    {
+      "institution": "Udacity",
+      "studyType": "Nanodegree",
+      "area": "Android Development",
+      "startDate": "2017-03-01",
+      "endDate": ""
+    },
+    {
+      "institution": "Flatiron School",
+      "studyType": "Certificate",
+      "area": "iOS App Development",
+      "startDate": "2014-06-01",
+      "endDate": ""
+    },
+    {
+      "institution": "The Evergreen State College",
+      "studyType": "Degree",
+      "area": "Sustainable Design - Agriculture and Architecture",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Protect.Earth",
+      "publisher": "(Open Source)",
+      "releaseDate": "2019-09-01",
+      "website": "https://protect.earth",
+      "summary": ""
+    },
+    {
+      "name": "Hardware wearable fertility montior",
+      "publisher": "Lola",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Milk and Honey",
+      "publisher": "The CleanWeb Hackathon",
+      "releaseDate": "2016-02-01",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Boston Code Dojo",
+      "publisher": "Meetup",
+      "releaseDate": "2015-02-01",
+      "website": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Development",
+      "keywords": [
+        "iOS",
+        "Android",
+        "Kotlin",
+        "Objective-C",
+        "Swift",
+        "Java",
+        "C",
+        "HTML",
+        "CSS",
+        "JS"
+      ]
+    },
+    {
+      "name": "Toolsets",
+      "keywords": [
+        "Xcode",
+        "Android Studio",
+        "Fastlane",
+        "CLI tools",
+        "VS Code",
+        "Flutter",
+        "Cocoapods",
+        "Github",
+        "Bitbucket",
+        "Jira",
+        "Atlassian",
+        "Notion",
+        "Gatsby",
+        "Sketch",
+        "App Store release management and automation"
+      ]
+    },
+    {
+      "name": "Project and Operations Management",
+      "keywords": [
+        "Sprint Planning",
+        "Agile/Scrum",
+        "Technical writing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Conversationally fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Accessibility, Security, Privacy, IoT/Wearables, Cycling, Outdoor Access, Survival Skills, Climate Change, Sustainable Design, Renewable Energy, and Zero Waste, Food Systems"
+    }
+  ],
+  "references": [
+    {
+      "name": "Laura Robson",
+      "reference": "_'Heidi is a rare find in the burgeoning world of tech. Combining strong technical expertise with **outstanding interpersonal skills**...she approaches her projects with **infectious curiosity and enthusiasm, unafraid of taking measured risks and trying new things** all the while maintaining a **close eye on detail and delivery**...It’s no exaggeration to say that this project would not have succeeded without Heidi’s guidance and oversight. She counselled and supported me to make wise, courageous, strategic, technical decisions...keeping us **focused on key deliverables...offering input without ever imposing...Easy rapport** is what makes working with Heidi extra special...(she has been a) huge source of support and strength while striving to deliver such an ambitious project...**championing accessibility and privacy throughout**. She brings...humility, humour, empathy, quiet confidence and tenacity to her work.  In choosing to work with Heidi we found not only an exceptional technical project manager, but also a generous mentor and valued colleague. I would recommend her without hesitation.'_"
+    }
+  ]
+}
