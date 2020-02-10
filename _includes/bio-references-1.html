@@ -9,13 +9,15 @@
   <div class="fourteen wide column no-bottom">
     <p class="ui no-bottom">
     {% for entry in site.data.bio.references %}
-      {{ entry.name }}
-      <!-- {% if entry.reference and entry.reference.size > 0 %}
-        <em>{{ entry.reference }}</em> -->
-        <em markdown="1">'Heidi is a rare find in the burgeoning world of tech. Combining strong technical expertise with <b>outstanding interpersonal skills</b>...she approaches her projects with <b>infectious curiosity and enthusiasm, unafraid of taking measured risks and trying new things</b> all the while maintaining a <b>close eye on detail and delivery</b>...It’s no exaggeration to say that this project would not have succeeded without Heidi’s guidance and oversight. She counselled and supported me to make wise, courageous, strategic, technical decisions...keeping us <b>focused on key deliverables...offering input without ever imposing...Easy rapport</b> is what makes working with Heidi extra special...(she has been a) huge source of support and strength while striving to deliver such an ambitious project...<b>championing accessibility and privacy throughout</b>. She brings...humility, humour, empathy, quiet confidence and tenacity to her work.  In choosing to work with Heidi we found not only an exceptional technical project manager, but also a generous mentor and valued colleague. I would recommend her without hesitation.'</em>
-      <!-- {% endif %} -->
+      {% if entry.reference and entry.reference.size > 0 %}
+        {{ entry.reference }}
+        <i>- {{ entry.name }}, Co-Founder of The Body Literacy Co.</i>
+      {% endif %}
     {% endfor %}
     </p>
   </div>
 </div>
 {% endif %}
+
+
+<!-- 'Heidi is a rare find in the burgeoning world of tech. Combining strong technical expertise with <b>outstanding interpersonal skills</b>...she approaches her projects with <b>infectious curiosity and enthusiasm, unafraid of taking measured risks and trying new things</b> all the while maintaining a <b>close eye on detail and delivery</b>...It’s no exaggeration to say that this project would not have succeeded without Heidi’s guidance and oversight. She counselled and supported me to make wise, courageous, strategic, technical decisions...keeping us <b>focused on key deliverables...offering input without ever imposing...Easy rapport</b> is what makes working with Heidi extra special...(she has been a) huge source of support and strength while striving to deliver such an ambitious project...<b>championing accessibility and privacy throughout</b>. She brings...humility, humour, empathy, quiet confidence and tenacity to her work.  In choosing to work with Heidi we found not only an exceptional technical project manager, but also a generous mentor and valued colleague. I would recommend her without hesitation.' -->

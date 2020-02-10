@@ -6,7 +6,7 @@
     "email": "hello@jungledev.io",
     "phone": "",
     "website": "https://jungledev.io",
-    "summary": "5 years' experience in Software Engineering with a focus on developing Android and iOS apps with Kotlin, Java, Objective-C, and Swift.",
+    "summary": "Heidi is the founder of Biep Boep Software, a company that helps entrepreneurs build elegant, performant, and beautiful mobile apps developed on native platforms.  She has worked independently and collaboratively with small and large teams on software tools for privacy, security, health, travel, and accessibility, to name a few.  Prior to her career as an engineer, she designed and built and off-grid farm and educational center where she lived for four years.  Heidi has studied digital fabrication at FabAcademy, Android development at Udacity, iOS development at Flatiron, and Sustainable Design at Evergreen.  In her free time, she can be found cycling, designing circuit boards, and making her own ultralight camping gear.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -238,13 +238,13 @@
   ],
   "interests": [
     {
-      "name": "Accessibility, Security, Privacy, IoT/Wearables, Cycling, Outdoor Access, Survival Skills, Climate Change, Sustainable Design, Renewable Energy, and Zero Waste, Food Systems"
+      "name": "Accessibility, Security, Privacy, IoT/Wearables, Cycling, Outdoor Access, Survival Skills, Climate Change, Sustainable Design, Renewable Energy, Zero Waste, and Food Systems"
     }
   ],
   "references": [
     {
       "name": "Laura Robson",
-      "reference": "_'Heidi is a rare find in the burgeoning world of tech. Combining strong technical expertise with **outstanding interpersonal skills**...she approaches her projects with **infectious curiosity and enthusiasm, unafraid of taking measured risks and trying new things** all the while maintaining a **close eye on detail and delivery**...It’s no exaggeration to say that this project would not have succeeded without Heidi’s guidance and oversight. She counselled and supported me to make wise, courageous, strategic, technical decisions...keeping us **focused on key deliverables...offering input without ever imposing...Easy rapport** is what makes working with Heidi extra special...(she has been a) huge source of support and strength while striving to deliver such an ambitious project...**championing accessibility and privacy throughout**. She brings...humility, humour, empathy, quiet confidence and tenacity to her work.  In choosing to work with Heidi we found not only an exceptional technical project manager, but also a generous mentor and valued colleague. I would recommend her without hesitation.'_"
+      "reference": "'Heidi is a rare find in the burgeoning world of tech. Combining strong technical expertise with outstanding interpersonal skills...she (has) infectious curiosity and enthusiasm, unafraid of taking measured risks and trying new things... (has) a close eye on detail and delivery...this project would not have succeeded without Heidi’s guidance and oversight. She counselled...me to make wise, courageous, strategic, technical decisions...keeping us focused on key deliverables...offering input without ever imposing...Easy rapport makes working with Heidi extra special...(she has been a) huge source of support and strength while striving to deliver such an ambitious project...championing accessibility and privacy throughout. She brings...humility, humour, empathy, quiet confidence and tenacity to her work.  In choosing to work with Heidi we found not only an exceptional technical project manager, but also a generous mentor and valued colleague. I would recommend her without hesitation.'"
     }
   ]
 }
