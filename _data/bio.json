@@ -41,13 +41,13 @@
     {
       "company": "<a href=https://www.bodyliteracy.co/>Body Literacy Collective</a>",
       "position": "TECHNICAL PROJECT MANAGER",
-      "website": "https://www.bodyliteracy.co/",
+      "website": "",
       "startDate": "2019-07-01",
       "endDate": "Now",
       "summary": "<b><a href=https://www.readyourbody.info/>Read Your Body</a></b>: The only privacy-first mobile app for fertility charting.<ul style='margin: 0px; list-style-type:inherit'><li>Led the development of the iOS and Android apps from conception, through beta release to 800 users, to production launch.</li><li>Defined technical requirements and documentation, advised founder on accessibility, Material Design and Human Interface Guidelines, health data security protocols, user permissions and privacy, app store release management, QA and Beta testing, and CI/CD</li><li>Refined product vision, crafted roadmap, sprints, milestones, timeline, Managed QA and beta test program, R&D development options to suit budget and design considerations.</li></ul>"
     },
     {
-      "company": "<a href=https://www.linkedin.com/in/jungledev>Biep Boep Software</a>",
+      "company": "Biep Boep Software",
       "position": "SOFTWARE ENGINEER (ANDROID AND IOS) AND PROJECT MANAGER",
       "startDate": "2014-09-01",
       "endDate": "Now",
@@ -56,25 +56,25 @@
     {
       "company": "<a href=https://www.simplisafe.com/>SimpliSafe Home Security</a>",
       "position": "SOFTWARE ENGINEER - IOS",
-      "website": "https://www.simplisafe.com/",
+      "website": "",
       "startDate": "2016-03-01",
       "endDate": "2017-01-01",
-      "summary": "(Objective-C and C) Simplisafe’s home security system is a comprehensive whole-house hardware solution controlled from a mobile app.  I was part of a team of three mobile developers."
+      "summary": "(Objective-C and C) Simplisafe’s home security system is a comprehensive whole-house hardware solution controlled from a mobile app.  I was part of a team of three mobile developers.<ul style='margin: 0px; list-style-type:inherit'><li>Collaborated with >40 hardware engineers to integrate the cameras, sensors, keypads, alarms, and base stations into the mobile apps via cellular, wifi, and bluetooth to trigger camera recording, motion detection, push notifications, and disaster response.</li><li>Created performant buffered stream video players to display HD feeds from MJPEG H264 video streams and resolved memory leaks using instruments and interface inspector to crafted an incredible UX to view and control up to 5 time-synced HD video streams in one view.</li><li>Accelerated app update frequency 6x, while decreasing app deployment time from 4+ days to 30 minutes with comprehensive standards and processes I developed to automate and simplify git flow, Jira workflows, app bundling, CI/CD, app store updates, documentation, and test automation.</li><li>Proposed and implemented an overhaul of the hiring process to improve outcomes and reduce bias. Proposed and aided the creation of a mentoring program to train in-house customer service representatives to transition into the engineering department’s QA team.</li></ul>"
     },
     {
       "company": "<a href=https://www.trill.me/>Trill, Inc.</a>",
       "position": "SOFTWARE ENGINEER - IOS",
-      "website": "https://www.trill.me/",
+      "website": "",
       "startDate": "2015-07-01",
       "endDate": "2016-03-01",
-      "summary": "(Objective-C) Trill was an iOS app designed to improve discoverability of cultural experiences like theater, art shows, and more.  I worked closely with another developer to create the beautifully designed app from scratch in Objective-C."
+      "summary": "(Objective-C) Trill was an iOS app designed to improve discoverability of cultural experiences like theater, art shows, and more.  I worked closely with another developer to create the beautifully designed app from scratch in Objective-C.<ul style='margin: 0px; list-style-type:inherit'><li>Used Autolayout, xibs/nibs, custom tableview animations, CoreGraphics, CoreLocation, MapKit, Cocoapods, Facebook SDK, Fabric, CrashLytics, MessageUI, APNS, Specta/Expecta, OHTTPStubs, OCMock, AddressBook, and Rails database run on Heroku</li><ul>"
     },
     {
       "company": "<a href=http://www.aisquared.com/>Sitecues by AiSquared</a>",
       "position": "SOFTWARE ENGINEER - WEB, TECHNICAL WRITER, TEST ENGINEER",
-      "website": "http://www.aisquared.com/",
+      "website": "",
       "startDate": "2015-03-01",
-      "summary": "Sitecues is an innovative Web-based accessibility solution that builds zoom and speech features into websites to enhance the usability for website visitors who experience visual and print difficulties."
+      "summary": "Sitecues is an innovative Web-based accessibility solution that builds zoom and speech features into websites to enhance the usability for website visitors who experience visual and print difficulties.<ul style='margin: 0px; list-style-type:inherit'><li>Created documentation system and documented all processes for hiring, onboarding, planning, dev ops, and development.  Wrote product press releases and educational posts on topics of true accessibility versus basic compliance, testing your software for accessibility, design considerations for users with low vision, blindness, dyslexia, and other disabilities.</li><li>Created QA test plan, managed team of 40 testers with Applause, triaged results, created year-long sprint implementation roadmap for bug fixes and new features, and created unit test plan with JS Mocha for core product.</li><li>Created custom Sitecues product site using Java to replace legacy wordpress site</li></ul>"
     },
     {
       "company": "Wailau Organic Farm and Educational Center",
@@ -82,7 +82,7 @@
       "website": "",
       "startDate": "2009-12-01",
       "endDate": "2014-02-01",
-      "summary": "Procured and developed a 1.71-acre plot of raw land in a roadless valley into an off grid home and teaching center."
+      "summary": "Procured and developed a 1.71-acre plot of raw land in a roadless valley into an off-grid home and teaching center.<ul style='margin: 0px; list-style-type:inherit'><li>Fundraised to purchase and develop land.  Designed and built energy efficient house from 100% salvaged materials. Designed and installed off-grid solar photovoltaic power supply, satellite internet, micro-hydro generator, plumbing, hot water system, cellular tower relay, and whole-house electrical system.</li><li>Organized annual procurement, transport, and preservation of a year’s worth of food storage.  Transport means included barge, motorboat, kayak, backpacking, swimming, and helicopter. Cultivated over 200 varieties of fruit trees and 400 varieties of vegetables.</li><li>Consulted with Sust’ainable Molokai to assist in the design and engineering for the first LEED-certified off-grid home on Molokai built from locally grown materials.</li><li>Developed, marketed, organized, hosted, and taught educational retreats for individuals, groups, and organizations including The Boy Scouts of America on topics of sustainable agriculture, subsistence farming, seed selecting and saving, food processing and preservation, and survival skills.</li><ul>"
     }
   ],
   "volunteer": [
