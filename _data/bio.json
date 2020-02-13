@@ -1,4 +1,5 @@
 {
+  "$schema": "../resume-schema.json",
   "basics": {
     "name": "Heidi A.K. Hansen",
     "label": "Technical Project Manager and Software Engineer (Android and iOS)",
@@ -132,14 +133,14 @@
     {
       "institution": "Udacity",
       "studyType": "Nanodegree",
-      "area": "Android Development",
+      "area": "Android Development (Java)",
       "startDate": "2017-03-01",
       "endDate": ""
     },
     {
       "institution": "Flatiron School",
       "studyType": "Certificate",
-      "area": "iOS App Development",
+      "area": "iOS App Development (Objective-C)",
       "startDate": "2014-06-01",
       "endDate": ""
     },
@@ -194,7 +195,9 @@
         "C",
         "HTML",
         "CSS",
-        "JS"
+        "JS",
+        "Python",
+        "Arduino"
       ]
     },
     {
