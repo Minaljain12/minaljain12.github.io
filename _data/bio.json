@@ -52,7 +52,7 @@
       "position": "SOFTWARE ENGINEER (ANDROID AND IOS) AND PROJECT MANAGER",
       "startDate": "2014-09-01",
       "endDate": "Now",
-      "summary": "(Kotlin, Objective-C, Swift) Mobile app development consultancy, native platforms.<ul style='margin: 0px; list-style-type:none'><li><b><i>Android Developer (Kotlin) - OCL</i></b><div>2018 – 2019</div><b><a href=https://portes.is/>Portes</a></b>: An asymmetric-encryption-based status verification app.  Portes lets you access controlled content anonymously, like having a digital wristband, without sharing your personal identity.<ul style='margin: 0px; list-style-type:disc'><li>Created authentication with custom pinpad, biometric identification, secure enclave, custom QR scanner, custom animations to validate and authenticate single-use tokens, JNI, Firebase MLKit, constraint layouts, custom preferences.</li><li>Architected data flow with room database, dao, repository, coroutines, asyncTask, listenableFuture, workManager, liveData, lifecycleObservers, listenableWorkers.</li><li>Collaborated with the iOS developer and assisted in all aspects of iOS development to ensure feature parity.</li></ul></li><li><b><i>iOS Developer (Objective-C and Swift)</i> - <a href=http://www.lithobyte.co/>LithoByte</a></b><div>2015 - 2018</div>Mobile app development firm, with a focus on creating apps from scratch for entrepreneurs.  Apps worked on:<ul style='margin: 0px; list-style-type:disc'><li><b><a href=https://apps.apple.com/us/app/subway-nyc-map-train-times/id1025535484>Subway:NYC</a></b> and <b><a href=https://apps.apple.com/us/app/mbta-boston-t-transit-map/id568754858>BostonT</a></b> transit apps (Swift).  General Transit Feed Specification, Fabric, CoreGraphics, CoreLocation, Flurry and Crashlytics analytics, Mantle models, OCMock, Specta/Expecta, iAds, GoogleAds, Yext ads.</li><li><b><a href=https://www.videnapp.com/>Viden</a></b>: A yelp-like app to review travel activities in European countries. (Objective-C).  Included: Login with Facebook SDK, Specta/Expecta tests with HTTP+JSON stubbing and OCMock, Crashlytiics, Fabric, in-app version management, Cloudinary media integration.</li></ul></li></ul>"
+      "summary": "(Kotlin, Objective-C, Swift) Mobile app development consultancy, native platforms.<ul style='margin: 0px; list-style-type:none'><li><b><i>Android Developer (Kotlin) - OCL</i></b><div>2018 – 2019</div><b><a href=https://portes.is/>Portes</a></b>: An asymmetric-encryption-based status verification app.  Portes lets you access controlled content anonymously, like having a digital wristband, without sharing your personal identity.<ul style='margin: 0px; list-style-type:disc'><li>Created authentication with custom pinpad, biometric identification, secure enclave, custom QR scanner, custom animations to validate and authenticate single-use tokens, JNI, Firebase MLKit, constraint layouts, custom preferences.</li><li>Architected data flow with room database, dao, repository, coroutines, asyncTask, listenableFuture, workManager, liveData, lifecycleObservers, listenableWorkers.</li><li>Collaborated with the iOS developer and assisted in all aspects of iOS development to ensure feature parity.</li></ul></li><li><b><i>iOS Developer (Objective-C and Swift)</i> - <a href=https://www.lithobyte.co/>LithoByte</a></b><div>2015 - 2018</div>Mobile app development firm, with a focus on creating apps from scratch for entrepreneurs.  Apps worked on:<ul style='margin: 0px; list-style-type:disc'><li><b><a href=https://apps.apple.com/us/app/subway-nyc-map-train-times/id1025535484>Subway:NYC</a></b> and <b><a href=https://apps.apple.com/us/app/mbta-boston-t-transit-map/id568754858>BostonT</a></b> transit apps (Swift).  General Transit Feed Specification, Fabric, CoreGraphics, CoreLocation, Flurry and Crashlytics analytics, Mantle models, OCMock, Specta/Expecta, iAds, GoogleAds, Yext ads.</li><li><b><a href=https://www.videnapp.com/>Viden</a></b>: A yelp-like app to review travel activities in European countries. (Objective-C).  Included: Login with Facebook SDK, Specta/Expecta tests with HTTP+JSON stubbing and OCMock, Crashlytiics, Fabric, in-app version management, Cloudinary media integration.</li></ul></li></ul>"
     },
     {
       "company": "<a href=https://www.simplisafe.com/>SimpliSafe Home Security</a>",
@@ -71,7 +71,7 @@
       "summary": "(Objective-C) Trill was an iOS app designed to improve discoverability of cultural experiences like theater, art shows, and more.  I worked closely with another developer to create the beautifully designed app from scratch in Objective-C.<ul style='margin: 0px; list-style-type:inherit'><li>Used Autolayout, xibs/nibs, custom tableview animations, CoreGraphics, CoreLocation, MapKit, Cocoapods, Facebook SDK, Fabric, CrashLytics, MessageUI, APNS, Specta/Expecta, OHTTPStubs, OCMock, AddressBook, and Rails database run on Heroku</li><ul>"
     },
     {
-      "company": "<a href=http://www.aisquared.com/>Sitecues by AiSquared</a>",
+      "company": "<a href=https://www.aisquared.com/>Sitecues by AiSquared</a>",
       "position": "SOFTWARE ENGINEER - WEB, TECHNICAL WRITER, TEST ENGINEER",
       "website": "",
       "startDate": "2015-03-01",
@@ -154,7 +154,7 @@
   ],
   "publications": [
     {
-      "name": "<a href=http://protect.earth>Protect.Earth</a>",
+      "name": "<a href=https://protect.earth>Protect.Earth</a>",
       "publisher": "(Open Source)",
       "releaseDate": "2019-09-01",
       "website": "",
@@ -212,6 +212,7 @@
         "Flutter",
         "Cocoapods",
         "Github",
+        "Gitlab",
         "Bitbucket",
         "Jira",
         "KiCad",
