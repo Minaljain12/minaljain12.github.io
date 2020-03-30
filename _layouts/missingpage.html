@@ -5,9 +5,9 @@ layout: default
 {% include menubar.html active="" %}
 
 <div style="padding-top: 20px" class="ui container ">
-  <p>I'm sorry, that URL could not be found. Perhaps you were looking for one of the following:</p>
-
-  <h3>Posts</h3>
+  <p>I'm sorry, that URL could not be found. </p>
+<!-- Perhaps you were looking for one of the following: -->
+  <!-- <h3>Posts</h3>
   <ul>
     {% assign post_pages = site.pages | where: "type", "post" | sort: "date" | reverse %}
     {% for page in post_pages %}
@@ -21,7 +21,7 @@ layout: default
     {% for page in project_pages %}
     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
     {% endfor %}
-  </ul>
+  </ul> -->
 
 </div>
 

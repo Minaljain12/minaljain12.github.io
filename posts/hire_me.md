@@ -11,7 +11,9 @@ keywords: SEO keywords Mobile, App, iOS, Swift, Developer, Engineer, Programmer,
 
 I’m an iOS and Android software engineer, currently based in Amsterdam. I have been consulting remotely and internationally, with clients ranging from university entrepreneurs to government-funded digital identity verification providers. I attended the Flatiron School in NYC to study iOS Software Development, MIT's Fabrication Academy to study digital fabrication, and Udacity to study Android App development. Before moving to Amsterdam, I led the Boston Code Dojo MeetUp, a language agnostic algorithm challenge group, for 2 years.
 
-I'm looking for a full-time position, **remote**, with partial US-day overlap possible. 
+I'm looking for a full-time position, **remote**, with partial US-day overlap possible.  
+
+Check out my resume [here](../bio/).
 
 To name just a few technologies I'm experienced with: Android, iOS, Objective-C, Swift, Kotlin, Java, UI, UX, Git, autolayout, accessibility, privacy, mobile security, native apps.
 
@@ -26,7 +28,7 @@ I'm looking for a position where I can have the opportunity to use my user-centr
 ## My ideal team
 - Has more than 3 other developers, as I've spent a lot of time being the first or second developer
 - Provides mentorship to help me grow. 
-- Has a well defined CoC, conflict resolution process, high on the [Joel Test](TODO LINK)
+- Has a well defined CoC, conflict resolution process, high on the [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 - Recognizes team members for their efforts
 
 ## My ideal company
