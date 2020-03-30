@@ -1,0 +1,13 @@
+<!-- Used by theme-bio-builtin-1,2 -->
+
+{% if site.data.bio.basics.website %}
+  <p class="ui no-bottom"><i class="large home icon "></i>jungledev.io</p>
+{% endif %}
+
+{% if site.data.bio.basics.email %}
+<p class="ui no-bottom"><i class="large mail outline icon "></i>hello@jungledev.io</p>
+{% endif %}
+
+{% for entry in site.data.bio.basics.profiles %}
+     <p class="ui no-bottom"><i class="large {{ entry.network | downcase }} icon "></i>{{ entry.username }}</p>
+{% endfor %}

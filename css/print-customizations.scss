@@ -2,4 +2,31 @@
 # Provide front matter so Jekyll processes this file as SASS.
 ---
 
-// Put your custom CSS for printing pages here.
+// Put your custom CSS for printing pages here. 
+
+body {
+    background-color: #f2f2f2;
+  }
+  
+  // Default menubar color
+  .ui.menu {
+    display: none !important;
+  }
+  
+  // Default home page icon color
+  .icon-color {
+    color: darken(silver, 40%);
+  }
+  
+  
+  // Prefer space between list items in screen mode.
+  .list-padding {
+    ul li { padding: 5px 0px; }
+    ol li { padding: 5px 0px; }
+  }
+  
+  // This class is used in the prebuilt bio themes.
+  .no-bottom {
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+  }
