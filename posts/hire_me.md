@@ -19,7 +19,7 @@ To name just a few technologies I'm experienced with: Android, iOS, Objective-C,
 
 Before getting into tech I lived a very different life full of problem solving. I designed and built an off-grid house from salvaged materials, in a roadless valley on a sparsely populated island in Hawai'i that I lived in for four years. Since then, I've enjoyed exploring the world by bicycle, and I’m usually nerding out about fermented foods, primitive skills, ethnobotany, and sustainability.
 
-Whether it's a mobile app, a startup idea, a bicycle, or an an off-grid homestead, I enjoy the process of planning and creating ambitious ideas.  Specifically, I love collaborating with kind and fun people to develop efficient and useful products to improve lives.  
+Whether it's a mobile app, a startup idea, building a bicycle, or architecting an off-grid homestead, I enjoy the process of planning and creating ambitious ideas.  Specifically, I love collaborating with kind and fun people to develop efficient and useful products to improve lives.  
 
 I’m a strong mobile developer with experience leading teams, and expect to be programming for a few more years. I've done lots of product/project management, and would love a Junior Product Designer/Manager role where I can perfect my skills in this area. I want to be involved in architecture design, train other developers in best practices, help improve technical hiring, and use my rounded skill set to create well built products.
 
