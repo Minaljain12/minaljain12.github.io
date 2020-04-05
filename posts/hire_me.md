@@ -1,7 +1,7 @@
 ---
 layout: post
 type: post
-title: Remote mobile developer seeking a new role
+title: Android + iOS Developer seeking a new role
 # All dates must be YYYY-MM-DD format!
 # date: 2020-03-30
 seo:
@@ -9,7 +9,7 @@ description: Let me help you ship your app idea by rapidly prototyping, building
 keywords: SEO keywords Mobile, App, iOS, Swift, Developer, Engineer, Programmer, Remote, Architect, iPhone, Android, Objective-C, Kotlin, Java
 ---
 
-I’m an iOS and Android software engineer, currently based in Amsterdam. I have been consulting remotely and internationally, with clients ranging from university entrepreneurs to government-funded digital identity verification providers. I attended the Flatiron School in NYC to study iOS Software Development, MIT's Fabrication Academy to study digital fabrication, and Udacity to study Android App development. Before moving to Amsterdam, I led the Boston Code Dojo MeetUp, a language agnostic algorithm challenge group, for 2 years.
+I'm an experienced mobile app developer, with 6+ years of experience developing native apps for Android and iOS. I have been consulting remotely and internationally, with clients ranging from university entrepreneurs to government-funded digital identity verification providers. I attended the Flatiron School in NYC to study iOS Software Development, MIT's Fabrication Academy to study digital fabrication, and Udacity to study Android App development. Before moving to Amsterdam, I led the Boston Code Dojo MeetUp, a language agnostic algorithm challenge group, for 2 years.
 
 I'm looking for a full-time position, **remote**, with partial US-day overlap possible.  
 
@@ -21,7 +21,7 @@ Before getting into tech I lived a very different life full of problem solving. 
 
 Whether it's a mobile app, a startup idea, building a bicycle, or architecting an off-grid homestead, I enjoy the process of planning and creating ambitious ideas.  Specifically, I love collaborating with kind and fun people to develop efficient and useful products to improve lives.  
 
-I’m a strong mobile developer with experience leading teams, and expect to be programming for a few more years. I've done lots of product/project management, and would love a Junior Product Designer/Manager role where I can perfect my skills in this area. I want to be involved in architecture design, train other developers in best practices, help improve technical hiring, and use my rounded skill set to create well built products.
+I’m a strong mobile developer with experience leading the product/project management for teams, and would love a role where I can utilize my product design and management skills. I want to be involved in architecture design, mentor/train other developers in best practices, help improve technical hiring, and use my rounded skill set to create well built products.
 
 I'm looking for a position where I can have the opportunity to use my user-centric product development skills, and dream of working for a company whose mission I firmly believe in. I look for jobs about which I am passionate because this allows me to be extremely productive and creative, but also gives me the opportunity to grow.
 
@@ -32,15 +32,15 @@ I'm looking for a position where I can have the opportunity to use my user-centr
 - Recognizes team members for their efforts
 
 ## My ideal company
-- Has open salaries
+- Plans with user-experience focused design
 - Well defined deadlines, sprints, project management
 - Does not set unrealistic goals at the expense of work life balance
-- Plans with user-experience focused design
+- Has open salaries
 
 ## How I can help your business grow
-- Manage a team of mobile developers
 - Engineer an app from scratch
-- Improve development processes to release better quality builds more often
+- Manage development and release processes to release better quality builds more often
+- Manage a team of mobile developers
 - Improve your apps engagement and downloads through growth engineering with performance, modern design standards, accessibility, and modern tooling
 
 ## Tech I usually work with
