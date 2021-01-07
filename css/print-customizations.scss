@@ -10,7 +10,7 @@ body {
   
   // Default menubar color
   .ui.menu {
-    display: none !important;
+    display: none;
   }
   
   // Default home page icon color
@@ -27,6 +27,6 @@ body {
   
   // This class is used in the prebuilt bio themes.
   .no-bottom {
-    margin-bottom: 0px !important;
-    padding-bottom: 0px !important;
+    margin-bottom: 0px ;
+    padding-bottom: 0px ;
   }
